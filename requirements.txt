@@ -1,0 +1,4 @@
+streamlit
+joblib
+numpy  # If your ANN model uses it
+scikit-learn  # If your model uses any scikit-learn components
